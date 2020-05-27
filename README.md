@@ -1,7 +1,6 @@
 # Breakout-Game
 A break out game created in Java
 
-Features:
 Features of Game:
 
 Use the slider to hit blocks until all of the blocks are finished.<br/>
